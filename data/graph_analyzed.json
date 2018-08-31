@@ -1,0 +1,549 @@
+{
+ "directed": false,
+ "graph": {},
+ "nodes": [
+  {
+   "betweeness": 0.0,
+   "popularity": 74,
+   "eigenvector": 0.1010215434954804,
+   "type": "track",
+   "name": "whole lotta love",
+   "pagerank": 0.015449514899375152,
+   "degree": 0.02857142857142857,
+   "id": 0,
+   "closeness": 0.25925925925925924
+  },
+  {
+   "betweeness": 0.0,
+   "popularity": 61,
+   "eigenvector": 0.1010215434954804,
+   "type": "track",
+   "name": "heartbreaker",
+   "pagerank": 0.015449514899375152,
+   "degree": 0.02857142857142857,
+   "id": 1,
+   "closeness": 0.25925925925925924
+  },
+  {
+   "betweeness": 0.0,
+   "popularity": 68,
+   "eigenvector": 0.1010215434954804,
+   "type": "track",
+   "name": "ramble on",
+   "pagerank": 0.015449514899375152,
+   "degree": 0.02857142857142857,
+   "id": 2,
+   "closeness": 0.25925925925925924
+  },
+  {
+   "betweeness": 0.0,
+   "popularity": 48,
+   "eigenvector": 0.1010215434954804,
+   "type": "track",
+   "name": "moby dick",
+   "pagerank": 0.015449514899375152,
+   "degree": 0.02857142857142857,
+   "id": 3,
+   "closeness": 0.25925925925925924
+  },
+  {
+   "betweeness": 0.0,
+   "popularity": 52,
+   "eigenvector": 0.1010215434954804,
+   "type": "track",
+   "name": "the lemon song",
+   "pagerank": 0.015449514899375152,
+   "degree": 0.02857142857142857,
+   "id": 4,
+   "closeness": 0.25925925925925924
+  },
+  {
+   "betweeness": 0.0,
+   "popularity": 56,
+   "eigenvector": 0.1010215434954804,
+   "type": "track",
+   "name": "what is and what should never be",
+   "pagerank": 0.015449514899375152,
+   "degree": 0.02857142857142857,
+   "id": 5,
+   "closeness": 0.25925925925925924
+  },
+  {
+   "betweeness": 0.0,
+   "popularity": 50,
+   "eigenvector": 0.06099076088319416,
+   "type": "track",
+   "name": "babe i'm gonna leave you",
+   "pagerank": 0.01564724653117749,
+   "degree": 0.02857142857142857,
+   "id": 6,
+   "closeness": 0.24822695035460993
+  },
+  {
+   "betweeness": 0.0,
+   "popularity": 51,
+   "eigenvector": 0.06099076088319416,
+   "type": "track",
+   "name": "kashmir",
+   "pagerank": 0.01564724653117749,
+   "degree": 0.02857142857142857,
+   "id": 7,
+   "closeness": 0.24822695035460993
+  },
+  {
+   "betweeness": 0.0,
+   "popularity": 53,
+   "eigenvector": 0.06099076088319416,
+   "type": "track",
+   "name": "all my love",
+   "pagerank": 0.01564724653117749,
+   "degree": 0.02857142857142857,
+   "id": 8,
+   "closeness": 0.24822695035460993
+  },
+  {
+   "betweeness": 0.0,
+   "popularity": 38,
+   "eigenvector": 0.05387429798630532,
+   "type": "track",
+   "name": "in my time of dying - live: o2 arena, london - december 10, 2007",
+   "pagerank": 0.015760149522534413,
+   "degree": 0.02857142857142857,
+   "id": 9,
+   "closeness": 0.24475524475524477
+  },
+  {
+   "betweeness": 0.0,
+   "popularity": 36,
+   "eigenvector": 0.05387429798630532,
+   "type": "track",
+   "name": "rock and roll - live: o2 arena, london - december 10, 2007",
+   "pagerank": 0.015760149522534413,
+   "degree": 0.02857142857142857,
+   "id": 10,
+   "closeness": 0.24475524475524477
+  },
+  {
+   "betweeness": 0.0,
+   "popularity": 57,
+   "eigenvector": 0.06991639026320862,
+   "type": "track",
+   "name": "mannish boy",
+   "pagerank": 0.015513023927287707,
+   "degree": 0.02857142857142857,
+   "id": 11,
+   "closeness": 0.24822695035460993
+  },
+  {
+   "betweeness": 0.0,
+   "popularity": 54,
+   "eigenvector": 0.06991639026320862,
+   "type": "track",
+   "name": "lover man",
+   "pagerank": 0.015513023927287707,
+   "degree": 0.02857142857142857,
+   "id": 12,
+   "closeness": 0.24822695035460993
+  },
+  {
+   "betweeness": 0.0,
+   "popularity": 51,
+   "eigenvector": 0.06991639026320862,
+   "type": "track",
+   "name": "jungle",
+   "pagerank": 0.015513023927287707,
+   "degree": 0.02857142857142857,
+   "id": 13,
+   "closeness": 0.24822695035460993
+  },
+  {
+   "betweeness": 0.0,
+   "popularity": 48,
+   "eigenvector": 0.06991639026320862,
+   "type": "track",
+   "name": "sweet angel",
+   "pagerank": 0.015513023927287707,
+   "degree": 0.02857142857142857,
+   "id": 14,
+   "closeness": 0.24822695035460993
+  },
+  {
+   "betweeness": 0.0,
+   "popularity": 44,
+   "eigenvector": 0.06991639026320862,
+   "type": "track",
+   "name": "cherokee mist",
+   "pagerank": 0.015513023927287707,
+   "degree": 0.02857142857142857,
+   "id": 15,
+   "closeness": 0.24822695035460993
+  },
+  {
+   "betweeness": 0.0,
+   "popularity": 40,
+   "eigenvector": 0.05144307572729677,
+   "type": "track",
+   "name": "red house",
+   "pagerank": 0.0156639795637604,
+   "degree": 0.02857142857142857,
+   "id": 16,
+   "closeness": 0.2413793103448276
+  },
+  {
+   "betweeness": 0.0,
+   "popularity": 35,
+   "eigenvector": 0.05144307572729677,
+   "type": "track",
+   "name": "can you see me",
+   "pagerank": 0.0156639795637604,
+   "degree": 0.02857142857142857,
+   "id": 17,
+   "closeness": 0.2413793103448276
+  },
+  {
+   "betweeness": 0.0,
+   "popularity": 34,
+   "eigenvector": 0.05144307572729677,
+   "type": "track",
+   "name": "love or confusion",
+   "pagerank": 0.0156639795637604,
+   "degree": 0.02857142857142857,
+   "id": 18,
+   "closeness": 0.2413793103448276
+  },
+  {
+   "betweeness": 0.0,
+   "popularity": 71,
+   "eigenvector": 0.06237555667707205,
+   "type": "track",
+   "name": "riders on the storm",
+   "pagerank": 0.015607624838172874,
+   "degree": 0.02857142857142857,
+   "id": 19,
+   "closeness": 0.24305555555555555
+  },
+  {
+   "betweeness": 0.0,
+   "popularity": 67,
+   "eigenvector": 0.04282225522271381,
+   "type": "track",
+   "name": "roadhouse blues",
+   "pagerank": 0.01599372073367257,
+   "degree": 0.02857142857142857,
+   "id": 20,
+   "closeness": 0.23333333333333334
+  },
+  {
+   "betweeness": 0.0,
+   "popularity": 66,
+   "eigenvector": 0.04282225522271381,
+   "type": "track",
+   "name": "people are strange",
+   "pagerank": 0.01599372073367257,
+   "degree": 0.02857142857142857,
+   "id": 21,
+   "closeness": 0.23333333333333334
+  },
+  {
+   "betweeness": 0.0,
+   "popularity": 63,
+   "eigenvector": 0.06237555667707205,
+   "type": "track",
+   "name": "love her madly",
+   "pagerank": 0.015607624838172874,
+   "degree": 0.02857142857142857,
+   "id": 22,
+   "closeness": 0.24305555555555555
+  },
+  {
+   "betweeness": 0.0,
+   "popularity": 43,
+   "eigenvector": 0.06237555667707205,
+   "type": "track",
+   "name": "l'america",
+   "pagerank": 0.015607624838172874,
+   "degree": 0.02857142857142857,
+   "id": 23,
+   "closeness": 0.24305555555555555
+  },
+  {
+   "betweeness": 0.0,
+   "popularity": 44,
+   "eigenvector": 0.06237555667707205,
+   "type": "track",
+   "name": "hyacinth house",
+   "pagerank": 0.015607624838172874,
+   "degree": 0.02857142857142857,
+   "id": 24,
+   "closeness": 0.24305555555555555
+  },
+  {
+   "betweeness": 0.5966386554621849,
+   "popularity": 74,
+   "eigenvector": 0.46171816173740504,
+   "type": "artist",
+   "name": "led zeppelin",
+   "pagerank": 0.058585652394896166,
+   "degree": 0.14285714285714285,
+   "id": 25,
+   "closeness": 0.4430379746835443
+  },
+  {
+   "betweeness": 0.4605042016806723,
+   "popularity": 57,
+   "eigenvector": 0.38942569700126684,
+   "type": "artist",
+   "name": "jimi hendrix",
+   "pagerank": 0.047036945722420134,
+   "degree": 0.11428571428571428,
+   "id": 26,
+   "closeness": 0.42168674698795183
+  },
+  {
+   "betweeness": 0.4336134453781513,
+   "popularity": 71,
+   "eigenvector": 0.4098152230689017,
+   "type": "artist",
+   "name": "the doors",
+   "pagerank": 0.05921715287241849,
+   "degree": 0.14285714285714285,
+   "id": 27,
+   "closeness": 0.4166666666666667
+  },
+  {
+   "betweeness": 0.31764705882352945,
+   "eigenvector": 0.32844470512064955,
+   "type": "album",
+   "name": "led zeppelin ii",
+   "pagerank": 0.09292411538166018,
+   "degree": 0.19999999999999998,
+   "id": 28,
+   "closeness": 0.3465346534653465,
+   "images": "https://i.scdn.co/image/5fa3a6cc1848ea743a293d2088046746d1b09608"
+  },
+  {
+   "betweeness": 0.16638655462184876,
+   "eigenvector": 0.1982932134434568,
+   "type": "album",
+   "name": "mothership (remastered)",
+   "pagerank": 0.054028788897171484,
+   "degree": 0.11428571428571428,
+   "id": 29,
+   "closeness": 0.32710280373831774,
+   "images": "https://i.scdn.co/image/37e17a2b4df113e3de4b57f46d87b625345134e5"
+  },
+  {
+   "betweeness": 0.11260504201680673,
+   "eigenvector": 0.17515606556361038,
+   "type": "album",
+   "name": "celebration day",
+   "pagerank": 0.04091991631902521,
+   "degree": 0.08571428571428572,
+   "id": 30,
+   "closeness": 0.3211009174311927,
+   "images": "https://i.scdn.co/image/a867ac7ab82d75f79a29aff6cce5237df9ab3c78"
+  },
+  {
+   "betweeness": 0.26890756302521013,
+   "eigenvector": 0.2273071494047954,
+   "type": "album",
+   "name": "both sides of the sky",
+   "pagerank": 0.08009408717433551,
+   "degree": 0.17142857142857143,
+   "id": 31,
+   "closeness": 0.32710280373831774,
+   "images": "https://i.scdn.co/image/cdfbbcddc010250b24c7b92b489b53cc8621b8e4"
+  },
+  {
+   "betweeness": 0.16638655462184876,
+   "eigenvector": 0.16724941527790066,
+   "type": "album",
+   "name": "are you experienced",
+   "pagerank": 0.054105802388458246,
+   "degree": 0.11428571428571428,
+   "id": 32,
+   "closeness": 0.3153153153153153,
+   "images": "https://i.scdn.co/image/89ff9225a558caff3874562f94d188c9e651f0eb"
+  },
+  {
+   "betweeness": 0.2184873949579832,
+   "eigenvector": 0.20279363919581228,
+   "type": "album",
+   "name": "l.a. woman",
+   "pagerank": 0.06729810207864134,
+   "degree": 0.14285714285714285,
+   "id": 33,
+   "closeness": 0.3181818181818182,
+   "images": "https://i.scdn.co/image/006e418c379a9417ebf9af0c67a2d17726aa1932"
+  },
+  {
+   "betweeness": 0.05714285714285715,
+   "eigenvector": 0.13922264442531315,
+   "type": "album",
+   "name": "morrison hotel",
+   "pagerank": 0.027827654794182304,
+   "degree": 0.05714285714285714,
+   "id": 34,
+   "closeness": 0.3017241379310345,
+   "images": "https://i.scdn.co/image/34b1c4afdd8e576fb048e9e6c900c6c9fe33ea76"
+  },
+  {
+   "betweeness": 0.05714285714285715,
+   "eigenvector": 0.13922264442531315,
+   "type": "album",
+   "name": "strange days",
+   "pagerank": 0.027827654794182304,
+   "degree": 0.05714285714285714,
+   "id": 35,
+   "closeness": 0.3017241379310345,
+   "images": "https://i.scdn.co/image/506ddc62ea2bfba4dacf9c68836ba2403295bbcf"
+  }
+ ],
+ "multigraph": false,
+ "links": [
+  {
+   "source": 0,
+   "target": 28
+  },
+  {
+   "source": 1,
+   "target": 28
+  },
+  {
+   "source": 2,
+   "target": 28
+  },
+  {
+   "source": 3,
+   "target": 28
+  },
+  {
+   "source": 4,
+   "target": 28
+  },
+  {
+   "source": 5,
+   "target": 28
+  },
+  {
+   "source": 6,
+   "target": 29
+  },
+  {
+   "source": 7,
+   "target": 29
+  },
+  {
+   "source": 8,
+   "target": 29
+  },
+  {
+   "source": 9,
+   "target": 30
+  },
+  {
+   "source": 10,
+   "target": 30
+  },
+  {
+   "source": 11,
+   "target": 31
+  },
+  {
+   "source": 12,
+   "target": 31
+  },
+  {
+   "source": 13,
+   "target": 31
+  },
+  {
+   "source": 14,
+   "target": 31
+  },
+  {
+   "source": 15,
+   "target": 31
+  },
+  {
+   "source": 16,
+   "target": 32
+  },
+  {
+   "source": 17,
+   "target": 32
+  },
+  {
+   "source": 18,
+   "target": 32
+  },
+  {
+   "source": 19,
+   "target": 33
+  },
+  {
+   "source": 20,
+   "target": 34
+  },
+  {
+   "source": 21,
+   "target": 35
+  },
+  {
+   "source": 22,
+   "target": 33
+  },
+  {
+   "source": 23,
+   "target": 33
+  },
+  {
+   "source": 24,
+   "target": 33
+  },
+  {
+   "source": 25,
+   "target": 26
+  },
+  {
+   "source": 25,
+   "target": 27
+  },
+  {
+   "source": 25,
+   "target": 28
+  },
+  {
+   "source": 25,
+   "target": 29
+  },
+  {
+   "source": 25,
+   "target": 30
+  },
+  {
+   "source": 26,
+   "target": 32
+  },
+  {
+   "source": 26,
+   "target": 27
+  },
+  {
+   "source": 26,
+   "target": 31
+  },
+  {
+   "source": 27,
+   "target": 33
+  },
+  {
+   "source": 27,
+   "target": 35
+  },
+  {
+   "source": 27,
+   "target": 34
+  }
+ ]
+}

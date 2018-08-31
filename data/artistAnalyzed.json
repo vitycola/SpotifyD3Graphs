@@ -1,0 +1,843 @@
+{
+ "directed": false,
+ "nodes": [
+  {
+   "id": 0,
+   "type": "artist",
+   "popularity": 68,
+   "name": "the cure"
+  },
+  {
+   "id": 1,
+   "type": "artist",
+   "popularity": 70,
+   "name": "iggy pop"
+  },
+  {
+   "id": 2,
+   "type": "artist",
+   "popularity": 72,
+   "name": "johnny cash"
+  },
+  {
+   "id": 3,
+   "type": "artist",
+   "popularity": 28,
+   "name": "los brincos"
+  },
+  {
+   "id": 4,
+   "type": "artist",
+   "popularity": 25,
+   "name": "lone star"
+  },
+  {
+   "id": 5,
+   "type": "artist",
+   "popularity": 2,
+   "name": "los polares"
+  },
+  {
+   "id": 6,
+   "type": "artist",
+   "popularity": 42,
+   "name": "marisol"
+  },
+  {
+   "id": 7,
+   "type": "artist",
+   "popularity": 7,
+   "name": "bruno lomas"
+  },
+  {
+   "id": 8,
+   "type": "artist",
+   "popularity": 7,
+   "name": "los rockeros"
+  },
+  {
+   "id": 9,
+   "type": "artist",
+   "popularity": 5,
+   "name": "los salvajes"
+  },
+  {
+   "id": 10,
+   "type": "artist",
+   "popularity": 41,
+   "name": "dick dale"
+  },
+  {
+   "id": 11,
+   "type": "artist",
+   "popularity": 0,
+   "name": "alice & the wonders"
+  },
+  {
+   "id": 12,
+   "type": "artist",
+   "popularity": 41,
+   "name": "anthony gomes"
+  },
+  {
+   "id": 13,
+   "type": "artist",
+   "popularity": 0,
+   "name": "arizona baby"
+  },
+  {
+   "id": 14,
+   "type": "artist",
+   "popularity": 0,
+   "name": "arizona baby"
+  },
+  {
+   "id": 15,
+   "type": "artist",
+   "popularity": 8,
+   "name": "the belmont playboys"
+  },
+  {
+   "id": 16,
+   "type": "artist",
+   "popularity": 4,
+   "name": "the belmont playboys"
+  },
+  {
+   "id": 17,
+   "type": "artist",
+   "popularity": 0,
+   "name": "big dani perez r&b band"
+  },
+  {
+   "id": 18,
+   "type": "artist",
+   "popularity": 10,
+   "name": "big kahuna and the copa cat pack"
+  },
+  {
+   "id": 19,
+   "type": "artist",
+   "popularity": 15,
+   "name": "blue harlem"
+  },
+  {
+   "id": 20,
+   "type": "artist",
+   "popularity": 8,
+   "name": "blue harlem"
+  },
+  {
+   "id": 21,
+   "type": "artist",
+   "popularity": 2,
+   "name": "border caballero"
+  },
+  {
+   "id": 22,
+   "type": "artist",
+   "popularity": 1,
+   "name": "bruno lomas"
+  },
+  {
+   "id": 23,
+   "type": "artist",
+   "popularity": 0,
+   "name": "bruno lomas"
+  },
+  {
+   "id": 24,
+   "type": "artist",
+   "popularity": 0,
+   "name": "bruno lomas"
+  },
+  {
+   "id": 25,
+   "type": "artist",
+   "popularity": 2,
+   "name": "dani nel\u00b7lo"
+  },
+  {
+   "id": 26,
+   "type": "artist",
+   "popularity": 12,
+   "name": "the dragtones"
+  },
+  {
+   "id": 27,
+   "type": "artist",
+   "popularity": 3,
+   "name": "the dragtones"
+  },
+  {
+   "id": 28,
+   "type": "artist",
+   "popularity": 26,
+   "name": "elvis presley"
+  },
+  {
+   "id": 29,
+   "type": "artist",
+   "popularity": 47,
+   "name": "elvis presley"
+  },
+  {
+   "id": 30,
+   "type": "artist",
+   "popularity": 19,
+   "name": "the excitements"
+  },
+  {
+   "id": 31,
+   "type": "artist",
+   "popularity": 5,
+   "name": "the excitements"
+  },
+  {
+   "id": 32,
+   "type": "artist",
+   "popularity": 3,
+   "name": "flamingo tours"
+  },
+  {
+   "id": 33,
+   "type": "artist",
+   "popularity": 16,
+   "name": "johnny hiland"
+  },
+  {
+   "id": 34,
+   "type": "artist",
+   "popularity": 21,
+   "name": "king curtis"
+  },
+  {
+   "id": 35,
+   "type": "artist",
+   "popularity": 17,
+   "name": "the limboos"
+  },
+  {
+   "id": 36,
+   "type": "artist",
+   "popularity": 17,
+   "name": "the limboos"
+  },
+  {
+   "id": 37,
+   "type": "artist",
+   "popularity": 19,
+   "name": "los bravos"
+  },
+  {
+   "id": 38,
+   "type": "artist",
+   "popularity": 2,
+   "name": "los cavernas"
+  },
+  {
+   "id": 39,
+   "type": "artist",
+   "popularity": 4,
+   "name": "los galerna"
+  },
+  {
+   "id": 40,
+   "type": "artist",
+   "popularity": 10,
+   "name": "los twang! marvels"
+  },
+  {
+   "id": 41,
+   "type": "artist",
+   "popularity": 0,
+   "name": "vinila von bismark"
+  },
+  {
+   "id": 42,
+   "type": "artist",
+   "popularity": 0,
+   "name": "lucky dados"
+  },
+  {
+   "id": 43,
+   "type": "artist",
+   "popularity": 0,
+   "name": "vinila von bismark"
+  },
+  {
+   "id": 44,
+   "type": "artist",
+   "popularity": 0,
+   "name": "lucky dados"
+  },
+  {
+   "id": 45,
+   "type": "artist",
+   "popularity": 14,
+   "name": "mfc chicken"
+  },
+  {
+   "id": 46,
+   "type": "artist",
+   "popularity": 11,
+   "name": "mfc chicken"
+  },
+  {
+   "id": 47,
+   "type": "artist",
+   "popularity": 13,
+   "name": "mfc chicken"
+  },
+  {
+   "id": 48,
+   "type": "artist",
+   "popularity": 3,
+   "name": "mike barbwire"
+  },
+  {
+   "id": 49,
+   "type": "artist",
+   "popularity": 3,
+   "name": "the blue ocean orchestra"
+  },
+  {
+   "id": 50,
+   "type": "artist",
+   "popularity": 34,
+   "name": "robin nolan"
+  },
+  {
+   "id": 51,
+   "type": "artist",
+   "popularity": 46,
+   "name": "royal crown revue"
+  },
+  {
+   "id": 52,
+   "type": "artist",
+   "popularity": 29,
+   "name": "royal crown revue"
+  },
+  {
+   "id": 53,
+   "type": "artist",
+   "popularity": 35,
+   "name": "the shadows of knight"
+  },
+  {
+   "id": 54,
+   "type": "artist",
+   "popularity": 0,
+   "name": "the shadows of knight"
+  },
+  {
+   "id": 55,
+   "type": "artist",
+   "popularity": 9,
+   "name": "steve lucky & the rhumba bums"
+  },
+  {
+   "id": 56,
+   "type": "artist",
+   "popularity": 5,
+   "name": "susan santos"
+  },
+  {
+   "id": 57,
+   "type": "artist",
+   "popularity": 6,
+   "name": "susan santos"
+  },
+  {
+   "id": 58,
+   "type": "artist",
+   "popularity": 13,
+   "name": "los mambo jambo"
+  },
+  {
+   "id": 59,
+   "type": "artist",
+   "popularity": 4,
+   "name": "los mambo jambo"
+  },
+  {
+   "id": 60,
+   "type": "artist",
+   "popularity": 14,
+   "name": "the wise guyz"
+  },
+  {
+   "id": 61,
+   "type": "artist",
+   "popularity": 19,
+   "name": "the wise guyz"
+  },
+  {
+   "id": 62,
+   "type": "artist",
+   "popularity": 29,
+   "name": "john wasson"
+  },
+  {
+   "id": 63,
+   "type": "artist",
+   "popularity": 0,
+   "name": "the del moroccos"
+  },
+  {
+   "id": 64,
+   "type": "artist",
+   "popularity": 53,
+   "name": "the sonics"
+  },
+  {
+   "id": 65,
+   "type": "artist",
+   "popularity": 8,
+   "name": "los enemigos"
+  },
+  {
+   "id": 66,
+   "type": "artist",
+   "popularity": 23,
+   "name": "nick curran and the lowlifes"
+  },
+  {
+   "id": 67,
+   "type": "artist",
+   "popularity": 18,
+   "name": "nick curran and the lowlifes"
+  },
+  {
+   "id": 68,
+   "type": "artist",
+   "popularity": 15,
+   "name": "nick curran and the lowlifes"
+  },
+  {
+   "id": 69,
+   "type": "artist",
+   "popularity": 1,
+   "name": "the hot rod gang"
+  },
+  {
+   "id": 70,
+   "type": "artist",
+   "popularity": 8,
+   "name": "los coronas"
+  },
+  {
+   "id": 71,
+   "type": "artist",
+   "popularity": 10,
+   "name": "los coronas"
+  },
+  {
+   "id": 72,
+   "type": "artist",
+   "popularity": 15,
+   "name": "los coronas"
+  },
+  {
+   "id": 73,
+   "type": "artist",
+   "popularity": 0,
+   "name": "corizonas"
+  },
+  {
+   "id": 74,
+   "type": "artist",
+   "popularity": 1,
+   "name": "king salami and the cumberland three"
+  },
+  {
+   "id": 75,
+   "type": "artist",
+   "popularity": 0,
+   "name": "the q"
+  },
+  {
+   "id": 76,
+   "type": "artist",
+   "popularity": 4,
+   "name": "the moonstones"
+  },
+  {
+   "id": 77,
+   "type": "artist",
+   "popularity": 21,
+   "name": "freedonia"
+  },
+  {
+   "id": 78,
+   "type": "artist",
+   "popularity": 0,
+   "name": "los mirlos"
+  },
+  {
+   "id": 79,
+   "type": "artist",
+   "popularity": 19,
+   "name": "the champs"
+  },
+  {
+   "id": 80,
+   "type": "artist",
+   "popularity": 30,
+   "name": "the sonics"
+  },
+  {
+   "id": 81,
+   "type": "artist",
+   "popularity": 5,
+   "name": "satelliters"
+  },
+  {
+   "id": 82,
+   "type": "artist",
+   "popularity": 2,
+   "name": "brioles"
+  },
+  {
+   "id": 83,
+   "type": "artist",
+   "popularity": 0,
+   "name": "king salami and the cumberland 3"
+  },
+  {
+   "id": 84,
+   "type": "artist",
+   "popularity": 2,
+   "name": "los pekenikes"
+  },
+  {
+   "id": 85,
+   "type": "artist",
+   "popularity": 0,
+   "name": "cliff richard"
+  },
+  {
+   "id": 86,
+   "type": "artist",
+   "popularity": 18,
+   "name": "anaut"
+  },
+  {
+   "id": 87,
+   "type": "artist",
+   "popularity": 2,
+   "name": "pelle lindstr\u00f6m & downliners sect"
+  },
+  {
+   "id": 88,
+   "type": "artist",
+   "popularity": 9,
+   "name": "the barbwires"
+  },
+  {
+   "id": 89,
+   "type": "artist",
+   "popularity": 0,
+   "name": "dictators"
+  },
+  {
+   "id": 90,
+   "type": "artist",
+   "popularity": 3,
+   "name": "barcelona big blues band"
+  },
+  {
+   "id": 91,
+   "type": "artist",
+   "popularity": 3,
+   "name": "dani nel\u00b7lo"
+  },
+  {
+   "id": 92,
+   "type": "artist",
+   "popularity": 0,
+   "name": "the benturas"
+  },
+  {
+   "id": 93,
+   "type": "artist",
+   "popularity": 22,
+   "name": "the flirtations"
+  },
+  {
+   "id": 94,
+   "type": "artist",
+   "popularity": 1,
+   "name": "jody gibson & the muleskinners"
+  }
+ ],
+ "graph": {},
+ "multigraph": false,
+ "links": [
+  {
+   "target": 9,
+   "source": 8
+  },
+  {
+   "target": 10,
+   "source": 8
+  },
+  {
+   "target": 11,
+   "source": 8
+  },
+  {
+   "target": 12,
+   "source": 8
+  },
+  {
+   "target": 14,
+   "source": 8
+  },
+  {
+   "target": 16,
+   "source": 8
+  },
+  {
+   "target": 17,
+   "source": 8
+  },
+  {
+   "target": 18,
+   "source": 8
+  },
+  {
+   "target": 20,
+   "source": 8
+  },
+  {
+   "target": 21,
+   "source": 8
+  },
+  {
+   "target": 24,
+   "source": 8
+  },
+  {
+   "target": 27,
+   "source": 8
+  },
+  {
+   "target": 29,
+   "source": 8
+  },
+  {
+   "target": 31,
+   "source": 8
+  },
+  {
+   "target": 32,
+   "source": 8
+  },
+  {
+   "target": 33,
+   "source": 8
+  },
+  {
+   "target": 34,
+   "source": 8
+  },
+  {
+   "target": 91,
+   "source": 8
+  },
+  {
+   "target": 36,
+   "source": 8
+  },
+  {
+   "target": 37,
+   "source": 8
+  },
+  {
+   "target": 38,
+   "source": 8
+  },
+  {
+   "target": 39,
+   "source": 8
+  },
+  {
+   "target": 40,
+   "source": 8
+  },
+  {
+   "target": 43,
+   "source": 8
+  },
+  {
+   "target": 44,
+   "source": 8
+  },
+  {
+   "target": 44,
+   "source": 43
+  },
+  {
+   "target": 48,
+   "source": 44
+  },
+  {
+   "target": 49,
+   "source": 44
+  },
+  {
+   "target": 47,
+   "source": 44
+  },
+  {
+   "target": 49,
+   "source": 48
+  },
+  {
+   "target": 65,
+   "source": 49
+  },
+  {
+   "target": 68,
+   "source": 49
+  },
+  {
+   "target": 69,
+   "source": 49
+  },
+  {
+   "target": 72,
+   "source": 49
+  },
+  {
+   "target": 73,
+   "source": 49
+  },
+  {
+   "target": 74,
+   "source": 49
+  },
+  {
+   "target": 75,
+   "source": 49
+  },
+  {
+   "target": 76,
+   "source": 49
+  },
+  {
+   "target": 77,
+   "source": 49
+  },
+  {
+   "target": 78,
+   "source": 49
+  },
+  {
+   "target": 79,
+   "source": 49
+  },
+  {
+   "target": 80,
+   "source": 49
+  },
+  {
+   "target": 81,
+   "source": 49
+  },
+  {
+   "target": 82,
+   "source": 49
+  },
+  {
+   "target": 83,
+   "source": 49
+  },
+  {
+   "target": 84,
+   "source": 49
+  },
+  {
+   "target": 85,
+   "source": 49
+  },
+  {
+   "target": 86,
+   "source": 49
+  },
+  {
+   "target": 87,
+   "source": 49
+  },
+  {
+   "target": 88,
+   "source": 49
+  },
+  {
+   "target": 89,
+   "source": 49
+  },
+  {
+   "target": 90,
+   "source": 49
+  },
+  {
+   "target": 91,
+   "source": 49
+  },
+  {
+   "target": 50,
+   "source": 49
+  },
+  {
+   "target": 52,
+   "source": 49
+  },
+  {
+   "target": 54,
+   "source": 49
+  },
+  {
+   "target": 55,
+   "source": 49
+  },
+  {
+   "target": 57,
+   "source": 49
+  },
+  {
+   "target": 59,
+   "source": 49
+  },
+  {
+   "target": 61,
+   "source": 49
+  },
+  {
+   "target": 62,
+   "source": 49
+  },
+  {
+   "target": 63,
+   "source": 49
+  },
+  {
+   "target": 91,
+   "source": 90
+  },
+  {
+   "target": 92,
+   "source": 91
+  },
+  {
+   "target": 93,
+   "source": 91
+  },
+  {
+   "target": 94,
+   "source": 91
+  }
+ ]
+}
